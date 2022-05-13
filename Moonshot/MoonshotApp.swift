@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// more comments added
 @main
 struct MoonshotApp: App {
     var body: some Scene {
